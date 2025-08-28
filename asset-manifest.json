@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/melih-blog/static/css/main.feb5804b.css",
+    "main.js": "/melih-blog/static/js/main.c49272a4.js",
+    "index.html": "/melih-blog/index.html",
+    "main.feb5804b.css.map": "/melih-blog/static/css/main.feb5804b.css.map",
+    "main.c49272a4.js.map": "/melih-blog/static/js/main.c49272a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb5804b.css",
+    "static/js/main.c49272a4.js"
+  ]
+}
