@@ -8,7 +8,6 @@ import withRouter from "../hooks/withRouter";
 import AppRoutes from "./routes";
 import Headermain from "../header";
 import AnimatedCursor  from "../hooks/AnimatedCursor";
-import AIBot from "../bot/Aibot";   // ⬅️ import bot
 import "./App.css";
 
 function _ScrollToTop(props) {
@@ -36,7 +35,6 @@ export default function App() {
       <ScrollToTop>
         <Headermain />
         <AppRoutes />
-      {/* <AIBot /> */}{/* ⬅️ now bot is always visible */}
       </ScrollToTop>
     </Router>
   );
