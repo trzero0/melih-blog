@@ -159,7 +159,7 @@ const contactConfig = {
   YOUR_EMAIL: "melih.ozt24@gmail.com",
   YOUR_FONE: "+358401571041",
   description: "Available for job offers.",
-  // Optional: your Formspree form endpoint
+ // Formspree form endpoint
   FORMSPREE_URL: "https://formspree.io/f/xdklkkrq",
 };
 
